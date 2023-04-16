@@ -1,0 +1,8 @@
+PostMessage
+GetClassName
+GetWindowThreadProcessId
+EnumChildWindows
+GetWindowLong
+PrintWindow
+GetClientRect
+GetWindow
